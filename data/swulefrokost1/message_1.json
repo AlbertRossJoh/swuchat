@@ -1,0 +1,2315 @@
+{
+  "participants": [
+    {
+      "name": "Albert Juel Ross"
+    },
+    {
+      "name": "Max Brix Koch"
+    },
+    {
+      "name": "Frederik Lund Rosenlund"
+    },
+    {
+      "name": "Rasmus Nielsen"
+    },
+    {
+      "name": "Olivia H\u00c3\u00b8yer Moesgaard"
+    },
+    {
+      "name": "Mathilde Julie Gonzalez-Knudsen"
+    },
+    {
+      "name": "Alex Bj\u00c3\u00b8rnskov"
+    },
+    {
+      "name": "Daniel Fich"
+    },
+    {
+      "name": "Felix Anton Andersson"
+    },
+    {
+      "name": "Casper Fr\u00c3\u00b8ding"
+    },
+    {
+      "name": "Mads N\u00c3\u00b8rklit Jensen"
+    },
+    {
+      "name": "Emilie Kold Ruskj\u00c3\u00a6r"
+    },
+    {
+      "name": "Carmen Alberte Nielsen"
+    },
+    {
+      "name": "Natalie Clara Petersen"
+    },
+    {
+      "name": "Jacob P\u00c3\u00a6rregaard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Clara Petersen",
+      "timestamp_ms": 1672919168195,
+      "content": "Migg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Clara Petersen",
+      "timestamp_ms": 1672919165821,
+      "content": "Ja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1672909156276,
+      "content": "Hvem ejer denne?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1672909152979,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/722591439184446.jpg",
+          "creation_timestamp": 1672909152
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1672909150546,
+      "content": "Vi har et mysterie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670725510617,
+      "content": "+1 til Alex og pas godt p\u00c3\u00a5 jer selv og kom sikkert hjem \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670724479147,
+      "content": "Enig! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670724403302,
+      "content": "Tak for en k\u00c3\u00a6mpe hyggelig aften alle sammen, I er fantastiske hver og en \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00e2\u009d\u00a4\u00ef\u00b8\u008f\nOg k\u00c3\u00a6mpe tak til dig @Felix for at kunne holde! K\u00c3\u00a6mpe legende \u00f0\u009f\u00a4\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670698522768,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/863265005022672.jpg",
+          "creation_timestamp": 1670698522
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670698219937,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670698219066,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670684231882,
+      "content": "Du g\u00c3\u00a5r bare ind",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670684226767,
+      "content": "Super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670684221030,
+      "content": "Nejnej",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670684215814,
+      "content": "Og den er ik l\u00c3\u00a5st eller skal jeg ringe p\u00c3\u00a5?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670684207001,
+      "content": "Fedt mand",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frederik Lund Rosenlund",
+      "timestamp_ms": 1670684193488,
+      "content": "Ind i elevatoren og s\u00c3\u00a5 op p\u00c3\u00a5 8, ud og rundt \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670684155311,
+      "content": "Super \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670684147899,
+      "content": "Af d\u00c3\u00b8ren",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670684133205,
+      "content": "Hvordan kommer man ind n\u00c3\u00a5r man er der?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacob P\u00c3\u00a6rregaard",
+      "timestamp_ms": 1670683214521,
+      "content": "Jeg er der nok f\u00c3\u00b8rst 17",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682883339,
+      "content": "Det g\u00c3\u00a5r nok \u00f0\u009f\u0098\u0082 metroen kom ogs\u00c3\u00a5 nu, s\u00c3\u00a5 alt er fint",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670682838197,
+      "content": "H\u00c3\u00a5ber ikke du er sulten",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670682833650,
+      "content": "S\u00c3\u00a5 det g\u00c3\u00a5r",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670682831230,
+      "content": "Maden er ikke i n\u00c3\u00a6rheden et f\u00c3\u00a6rdig",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682817221,
+      "content": "Er nok lidt forsinket. Der har st\u00c3\u00a6et 1 minut p\u00c3\u00a5 metro skiltet i 5 minuttee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682254350,
+      "content": "Det er nok kun ca. 10 stykker, men det er alt jeg har",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682200098,
+      "content": "Har en lille stak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670682138127,
+      "content": "Vi kunne godt bruge en lille stak\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670682110522,
+      "content": "Har du A4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682107154,
+      "content": "Er kun lige g\u00c3\u00a5et",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670682096488,
+      "content": "Jeg kan hurtigt g\u00c3\u00a5 op og hente noget",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670682077461,
+      "content": "Eller bare noget at skrive p\u00c3\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670682052166,
+      "content": "Er der nogen som ikke er taget afsted som vil tage et stykke a4 papir med?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670681814317,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/523380049849307.jpg",
+          "creation_timestamp": 1670681813
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670681811631,
+      "content": "Har en flaske et eller andet i mit k\u00c3\u00b8leskab som jeg tager med. (er ikke den store alkoholkender)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacob P\u00c3\u00a6rregaard",
+      "timestamp_ms": 1670681584801,
+      "content": "Hellere for mange end for lidt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670681570568,
+      "content": "Det kan blive et langt spil beerpong",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacob P\u00c3\u00a6rregaard",
+      "timestamp_ms": 1670681490234,
+      "content": "Tror i 150 er nok? \u00f0\u009f\u00a4\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacob P\u00c3\u00a6rregaard",
+      "timestamp_ms": 1670681447358,
+      "content": "Jeg kan tage kopper med, men det bliver godt nok maccen kopper",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670681390547,
+      "content": "Jeg kan g\u00c3\u00a5 i f\u00c3\u00b8tex og k\u00c3\u00b8be nogle, hvis de har",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670681353826,
+      "content": "Kan man stadig k\u00c3\u00b8be plastikkopper? Troede det var afskaffet \u00f0\u009f\u0098\u0086",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frederik Lund Rosenlund",
+      "timestamp_ms": 1670681254010,
+      "content": "Kan ikke n\u00c3\u00a5 forbi noget sted at k\u00c3\u00b8be plastik kopper inden 16 :/ men har 5 beerpong bolde med",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670681000189,
+      "content": "Ind",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670680997742,
+      "content": "Hvordan kommer man i s\u00c3\u00b8ndag",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670680446672,
+      "content": "Plast glas, evt og beerpong bolde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670680341460,
+      "content": "Vi er hjemme hos felix nu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670680087201,
+      "content": "Man kan altid bruge 1-2 ekstra ihvertfald",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Frederik Lund Rosenlund"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frederik Lund Rosenlund",
+      "timestamp_ms": 1670679728312,
+      "content": "Er der mere vi mangler som jeg skal tage med? Beerpong bolde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frederik Lund Rosenlund",
+      "timestamp_ms": 1670679684213,
+      "content": "Jeg er der nok f\u00c3\u00b8rst omkring kl 15:30-16",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670679573400,
+      "content": "Tak. Det kunne jeg bruge til noget \u00f0\u009f\u0098\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670679547619,
+      "content": "Men vi er ved kassen, s\u00c3\u00a5 tilbage inden l\u00c3\u00a6nge",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670679526306,
+      "content": "Felix, Mathilde, Emilie, Albert og jeg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670679484477,
+      "content": "Bilka dominance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670679477388,
+      "content": "\u00f0\u009f\u0098\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670679470366,
+      "content": "Dem alle sammen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670679458337,
+      "content": "Hvem er Bilka?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670679396598,
+      "content": "De er Bilka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670679386039,
+      "content": "Hvorn\u00c3\u00a5r er folk hos Felix? Er der nogle der allerede er der?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670674610780,
+      "content": "Ffs. S\u00c3\u00a5 fik du endelig h\u00c3\u00a6vn \u00f0\u009f\u0098\u0084",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00b3",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670674505446,
+      "content": "Hvid",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u008d\u0087",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rasmus Nielsen",
+      "timestamp_ms": 1670673500424,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/2870847573058571.jpg",
+          "creation_timestamp": 1670673498
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felix Anton Andersson"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670673494671,
+      "content": "ITU?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670673285273,
+      "content": "Hvad er adressen forresten?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670672941158,
+      "content": "Btw nogle der har en playliste klar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rasmus Nielsen",
+      "timestamp_ms": 1670671994535,
+      "content": "Jeg stemmer for r\u00c3\u00b8d, hvilken drue har jeg dog ikke forstand p\u00c3\u00a5 \u00f0\u009f\u00a5\u00b2",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u009d",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u008d\u0087",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u009d",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u009d",
+          "actor": "Albert Juel Ross"
+        },
+        {
+          "reaction": "\u00f0\u009f\u00a4\u009d",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Clara Petersen",
+      "timestamp_ms": 1670671703922,
+      "content": "Jeg tager vin med, nogle preferencer til type/m\u00c3\u00a6rke?\u00f0\u009f\u008d\u00b7 og er 3 vine nok?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rasmus Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670671439718,
+      "content": "Sygt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670671433931,
+      "content": "St\u00c3\u00a6rkt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670671410009,
+      "content": "Vi l\u00c3\u00a5ner soundboks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rasmus Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670668709042,
+      "content": "Vi liner bare alle jbl h\u00c3\u00b8jtalerne op p\u00c3\u00a5 r\u00c3\u00a6kke?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670668673775,
+      "content": "Har ogs\u00c3\u00a5 s\u00c3\u00a5dan en her hvis det er",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670668667432,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/691885155798308.jpg",
+          "creation_timestamp": 1670668665
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668644446,
+      "content": "Den er da s\u00c3\u00a5dan normal st\u00c3\u00b8rrelse",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670668611133,
+      "content": "Den er lille, men spiller h\u00c3\u00b8jt nok til os \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670668586043,
+      "content": "Jeg kan bare medbringe denne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670668575332,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/2675211999276757.jpg",
+          "creation_timestamp": 1670668574
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668539034,
+      "content": "Tror ikke jeg kan finde s\u00c3\u00a5 mange tbh\u00f0\u009f\u00a5\u00b2",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670668521188,
+      "content": "\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668489695,
+      "content": "\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00af for at jeg skal sende en blind mand efter det",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668434685,
+      "content": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f eller \u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f for \u00e2\u0080\u009cjeg er indifferent\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668295508,
+      "content": "\u00f0\u009f\u0091\u008e fuck af med dit kamera",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668282016,
+      "content": "\u00f0\u009f\u0091\u008d for hent lortet",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668261604,
+      "content": "Sagen er den at jeg skal cykle 14 km i alt for at hente lortet s\u00c3\u00a5 jeg skal bruge en afstemning",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670668249478,
+      "content": "Guys jeg overvejer at tage mit kamera med til festen for at tage nogle grineren festbilleder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rasmus Nielsen",
+      "timestamp_ms": 1670668140197,
+      "content": "Hvis det g\u00c3\u00a5r helt galt, kan jeg ogs\u00c3\u00a5 godt tage mine med, men hvis en Soundboks kan lade sig g\u00c3\u00b8re vil det nok v\u00c3\u00a6re mest optimalt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670668100179,
+      "content": "Yessir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670668058102,
+      "content": "Pr\u00c3\u00b8v gerne\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670668043350,
+      "content": "Jeg kan h\u00c3\u00b8re en af mine venner der bor lige ved siden af dig, de har en af de sm\u00c3\u00a5 soundbokse i deres lejlighed s\u00c3\u00a5 vidt jeg ved",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670667959734,
+      "content": "S\u00c3\u00a5 vidt jeg ved er der ikke nogen som har sagt \"heyo jeg kan godt tage h\u00c3\u00b8jtaler med\", s\u00c3\u00a5 hvis der er nogen som har en de kan tage med, ville det v\u00c3\u00a6re fantastisk. Ellers m\u00c3\u00a5 vi k\u00c3\u00b8re p\u00c3\u00a5 tv'et",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670667922564,
+      "content": "Comos estas h\u00c3\u00b8jtaler",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670667918264,
+      "content": "Ola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670615476826,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/868235934364062.jpg",
+          "creation_timestamp": 1670615475
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Clara Petersen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670615469007,
+      "content": "Det er kun mig der laver det hele",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670615344626,
+      "content": "Hils lige k\u00c3\u00a6resten og sig: godt arbejde (hvis hun er med til at hj\u00c3\u00a6lpe)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670614830456,
+      "content": "Btw hvis andre vil v\u00c3\u00a6re baskede til vi spiser s\u00c3\u00a5 kom kl 12 og hj\u00c3\u00a6lp",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670614757078,
+      "content": "Til i morgen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670614512395,
+      "content": "~70 deller",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Frederik Lund Rosenlund"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670614477002,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/videos/824697365500189.mp4",
+          "creation_timestamp": 1670614472
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670587138221,
+      "content": "Kom mellem 14-16, og v\u00c3\u00a6r forberedt p\u00c3\u00a5 at hj\u00c3\u00a6lpe hvis du kommer f\u00c3\u00b8r 16? o.o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Clara Petersen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670585092040,
+      "content": "Jeg tror hvis vi skal n\u00c3\u00a5 det hele og der ikke er nogen der bliver forvirret at der st\u00c3\u00a5r et p\u00c3\u00a5 Facebook og jeg m\u00c3\u00a5ske er kommet til at sige noget andet til nogen, s\u00c3\u00a5 skal vi m\u00c3\u00a5ske holde den p\u00c3\u00a5 16?\u00f0\u009f\u00a4\u0094",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670585031967,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/gifs/5679270008824894.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670584781221,
+      "content": "4 og 14, det er det samme \u00f0\u009f\u0098\u0086",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Daniel Fich"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670584759876,
+      "content": "Ja jeg havde ogs\u00c3\u00a5 h\u00c3\u00b8rt noget med kl 14 \u00f0\u009f\u00a4\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670584730515,
+      "content": "Det er ogs\u00c3\u00a5 rigtigt af en grund troede jeg bare det var rykket til 14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670584708468,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670584705234,
+      "content": "S\u00c3\u00a5 det var det jeg gik fra, ved ikke om jeg har kommet til at sige 14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670584685870,
+      "content": "Der st\u00c3\u00a5r 16 p\u00c3\u00a5 Facebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670584679852,
+      "content": "M\u00c3\u00a5ske er det bare mig som\nHar misforst\u00c3\u00a5et",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670584640296,
+      "content": "Starter det ikke kl 14?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670582445510,
+      "content": "Kommer gerne og hj\u00c3\u00a6lper \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670582397927,
+      "content": "Der skal d\u00c3\u00a6kkes bord, flyttes stole og bord op fra k\u00c3\u00a6lderen, lave fl\u00c3\u00a6skesteg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670582373031,
+      "content": "Alts\u00c3\u00a5 en hj\u00c3\u00a6lpende h\u00c3\u00a5nd er altid velkommen til at komme ved 12-14 tiden og s\u00c3\u00a6tte op",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670582209749,
+      "content": "Er der noget der mangler nogen til?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670581006812,
+      "content": "16\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670580917602,
+      "content": "Hvorn\u00c3\u00a5r er det at det starter?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670580428049,
+      "content": "Fantastisk\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670579814839,
+      "content": "Jeg har ogs\u00c3\u00a5 to, s\u00c3\u00a5 g\u00c3\u00a5r det vel lige op?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670579665041,
+      "content": "Ja selvf\u00c3\u00b8lgelig, skal nok m\u00c3\u00a5ske lige sige det g\u00c3\u00a6lder alt - men t\u00c3\u00a6nker ogs\u00c3\u00a5 det efterh\u00c3\u00a5nden er en selvf\u00c3\u00b8lge  at hvis man \u00c3\u00b8del\u00c3\u00a6gger noget betaler man \u00f0\u009f\u00ab\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670567374632,
+      "content": "De skal bare tilbage i samme stand\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670567324889,
+      "content": "Min k\u00c3\u00a6reste har 8 shotglas vi kan l\u00c3\u00a5ne",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670434602262,
+      "content": "Lyder godt!:)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rasmus Nielsen",
+      "timestamp_ms": 1670426040002,
+      "content": "Jeg hopper gerne forbi en bager p\u00c3\u00a5 vejen og k\u00c3\u00b8ber noget ordentligt br\u00c3\u00b8d hvis der er stemning for det? \u00f0\u009f\u0098\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Daniel Fich"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads N\u00c3\u00b8rklit Jensen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Frederik Lund Rosenlund"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670414378722,
+      "content": "Jeg t\u00c3\u00a6nker ogs\u00c3\u00a5 hvis vi skal n\u00c3\u00a5 at spise lidt mad, skader det vel ikke at det er en h\u00c3\u00a5ndfuld mennesker lidt tidligere, hvis der er andet, der skal s\u00c3\u00b8rges for p\u00c3\u00a5 dagen, t\u00c3\u00a6nker indk\u00c3\u00b8b af rugbr\u00c3\u00b8d, leverpostej, ops\u00c3\u00a6tning af stole osv",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Clara Petersen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670414315471,
+      "content": "Ihverfald et forslag",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670411438730,
+      "content": "S\u00c3\u00a5 t\u00c3\u00a6nker en af dem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670411431245,
+      "content": "Olivia har v\u00c3\u00a6ret s\u00c3\u00a5 smart at skrive gr\u00c3\u00b8nk\u00c3\u00a5l/r\u00c3\u00b8dk\u00c3\u00a5l/julesalat",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casper Fr\u00c3\u00b8ding",
+      "timestamp_ms": 1670403540318,
+      "content": "Jeg kan godt st\u00c3\u00a5 for at lave en salat af en art, hvilken slags har vi t\u00c3\u00a6nkt?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Bj\u00c3\u00b8rnskov",
+      "timestamp_ms": 1670351851596,
+      "content": "Hvad jeg t\u00c3\u00a6nkte ihvertfald",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670350562745,
+      "content": "Skal vi m\u00c3\u00a5ske bare k\u00c3\u00b8be s\u00c3\u00a5dan nogle plastik/engangs shotglas?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670342223179,
+      "content": "Ellers, shotglas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670342152129,
+      "content": "Hvor mange? Jeg kan nok medbringe 5. (Det er ikke snapseglas, men de har den korrekte st\u00c3\u00b8rrelse)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670342078673,
+      "content": "Men ikke nok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670342076395,
+      "content": "Jeg tror jeg har et par stykker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670341725128,
+      "content": "Hvis et s\u00c3\u00b8dt hoved vil se om de kan anskaffe det s\u00c3\u00a5 bliver vi alle glade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670341701632,
+      "content": "Vi mangler ogs\u00c3\u00a5 snapsglas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670341696952,
+      "content": "Hejsa mennesker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670255084072,
+      "content": "Pr\u00c3\u00a6cis de beregninger jeg ogs\u00c3\u00a5 lavede",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Clara Petersen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670253152219,
+      "content": "*\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670247093302,
+      "content": "Det rigtige sp\u00c3\u00b8rgsm\u00c3\u00a5l er s\u00c3\u00a5, er en mellemstor kartoffel nok pr. mand?\u00f0\u009f\u00a4\u0094",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Natalie Clara Petersen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670247080731,
+      "content": "Og en hurtig google s\u00c3\u00b8gning viser at 1, mellemstor kartoffel vejer 60 gram",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670247048794,
+      "content": "Rund regning viser at det er 67 gram pr. person",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alex Bj\u00c3\u00b8rnskov"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Frederik Lund Rosenlund"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670245206073,
+      "content": "Mon ik det er nok med 1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670236291296,
+      "content": "Ok, super \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670236248769,
+      "content": "Vi har intet k\u00c3\u00b8bt, tror tanker er at vi handler sammen. Og nogen f\u00c3\u00a5 af os forbereder lidt inden",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Brix Koch",
+      "timestamp_ms": 1670236123588,
+      "content": "Er der noget der mangler at blive k\u00c3\u00b8bt? Er lige flyttet og har ikke rigtig redskaber til at kaste mig ud i de store kulinariske udfordringer \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670157171611,
+      "content": "Hvor mange kg kartofler skal vi have kogt? Jeg kan godt st\u00c3\u00a5 for det hvis det skulle v\u00c3\u00a6re",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1670157033389,
+      "content": "Varmt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670156493699,
+      "content": "Fuck hvor fedt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670156472036,
+      "content": "Det blev 175,75 kr i alt (2*75 + 25,75)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathilde Julie Gonzalez-Knudsen",
+      "timestamp_ms": 1670156394815,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670156368911,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/photos/3428428330806329.jpg",
+          "creation_timestamp": 1670156367
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mathilde Julie Gonzalez-Knudsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felix Anton Andersson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casper Fr\u00c3\u00b8ding"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emilie Kold Ruskj\u00c3\u00a6r"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Clara Petersen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Brix Koch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fich",
+      "timestamp_ms": 1670156364550,
+      "content": "Jeg har lavet honningsnaps til julefrokosten, og h\u00c3\u00a5ber at det bliver godt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670008732228,
+      "content": "Men s\u00c3\u00a5 l\u00c3\u00a6nge man ikke smadrer glassene, har vi rigeligt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670008720030,
+      "content": "Engangskrus kunne v\u00c3\u00a6re smart hvis man vil lave drinks og tror man kommer til at smadre glas",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670008697555,
+      "content": "Det regner jeg st\u00c3\u00a6rkt med vi har",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads N\u00c3\u00b8rklit Jensen",
+      "timestamp_ms": 1670004912323,
+      "content": "Hvordan med bestik og tallerkner? Skal der skaffes ting som krus og lignende?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001400442,
+      "content": "Jeg kan lige f\u00c3\u00a5 spurgt, det ville v\u00c3\u00a6re luksus",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670001295344,
+      "content": "Har du ikke en s\u00c3\u00b8d nabo der kan l\u00c3\u00a5ne os ellers? Det virker n\u00c3\u00a6sten for fjollet at sl\u00c3\u00a6be med i metroen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001259622,
+      "content": "15+2 stole skal vi have",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001225188,
+      "content": "Jeg tjekker lige k\u00c3\u00a6lderen i morgen og t\u00c3\u00a6ller antal af stole",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001207427,
+      "content": "^ tror kun det var en",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1670001196690,
+      "content": "Var det ik kun en?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001178431,
+      "content": "Men vi mangler 3 stole? Eller deler vi os op?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001148632,
+      "content": "Om jeg m\u00c3\u00a5 be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001143555,
+      "content": "\u00e2\u0080\u009cS\u00c3\u00a5dan et bord\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001127272,
+      "content": "\"har i et bord?\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001060361,
+      "content": "I love it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001048030,
+      "content": "Hvor der st\u00c3\u00a5r saturday is for the girls p\u00c3\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001041156,
+      "content": "Det var sgu da rart",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001032735,
+      "content": "Ja, et rigtigt fint et",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001030299,
+      "content": "Til at forl\u00c3\u00a6nge",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670001024984,
+      "content": "Beerpong bord din kegle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001011787,
+      "content": "\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001009505,
+      "content": "Ja vi har et bord",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001006841,
+      "content": "Et bord?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1670001004566,
+      "content": "Hvad fuck sp\u00c3\u00b8rger du om?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1670000992616,
+      "content": "Har I s\u00c3\u00a5dan et bord?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998924700,
+      "content": "Vi kommer til at skulle have et beerpong bord for enden, ellers skal vi flytte t\u00c3\u00a6ppet og sofa bordet op til enden",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998913433,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/swulefrokost_5978634388866170/videos/2244782659015596.mp4",
+          "creation_timestamp": 1669998906
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998871957,
+      "content": "Hmm ja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998860390,
+      "content": "Tror 17 mennekser blir ret klemt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998858249,
+      "content": "Forstod det heller ikke helt haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998847938,
+      "content": "Det var mest en joke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998780466,
+      "content": "Men for min skyld m\u00c3\u00a5 de gerne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998756213,
+      "content": "S\u00c3\u00a5 bare 1 stol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998752615,
+      "content": "V\u00c3\u00a6k med dem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998750154,
+      "content": "Fair",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998710022,
+      "content": "Det tror jeg heller ikke der er bordplads til",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998685861,
+      "content": "De m\u00c3\u00a5 ikke v\u00c3\u00a6re med",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a7",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998632708,
+      "content": "S\u00c3\u00a5 skal vi jo bruge 3 ekstra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998626814,
+      "content": "Kommer begge dine roomies Felix?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998623949,
+      "content": ";)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1669998615926,
+      "content": "Manden har ramt mine dms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998599104,
+      "content": "S\u00c3\u00a5 m\u00c3\u00a5 vi finde ud af noget med en klapstol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998577793,
+      "content": "Synes vi skal sidde sammen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998368457,
+      "content": "Uh, det tror jeg m\u00c3\u00a5ske blir en logistikm\u00c3\u00a6ssig udfordring \u00c3\u00b8h",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00aa",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1669998337222,
+      "content": "Uh, kan vi ikke bare s\u00c3\u00a6tte bordet hen til sofaen?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998294523,
+      "content": "Jeg kan godt sidde der\u00f0\u009f\u0098\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998287379,
+      "content": "Eller sidder i sofaen",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998279739,
+      "content": "S\u00c3\u00a5 har k\u00c3\u00a6reste @Olivia H\u00c3\u00b8yer Moesgaard ogs\u00c3\u00a5 lavet et fint post p\u00c3\u00a5 facebooN, om maden",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia H\u00c3\u00b8yer Moesgaard",
+      "timestamp_ms": 1669998248838,
+      "content": "FRI",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carmen Alberte Nielsen",
+      "timestamp_ms": 1669998223140,
+      "content": "S\u00c3\u00a5 er der bare konstant en der st\u00c3\u00a5r op \u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Albert Juel Ross"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1669998218471,
+      "content": "Det er fucking godt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1669998210119,
+      "content": "Har noget valn\u00c3\u00b8ddesnaps som er lavet af min bedstefar",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emilie Kold Ruskj\u00c3\u00a6r"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998202239,
+      "content": "Pt. mangler vi, hvad jeg regner med er en stol og s\u00c3\u00a5 ogs\u00c3\u00a5 en h\u00c3\u00b8jtaler, hvis der er nogen der har det",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998184561,
+      "content": "Og \u00c3\u00b8l, siddepladser, h\u00c3\u00b8jtaler, alkohol, snaps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998167375,
+      "content": "T\u00c3\u00a6nkre det er rart lige med den her specifikke til begivenheden, s\u00c3\u00a5 vi kan finde ud af alt det med maden",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carmen Alberte Nielsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albert Juel Ross",
+      "timestamp_ms": 1669998159679,
+      "content": "Faceboon\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998135545,
+      "content": "Som har trykket ja til begivenheden p\u00c3\u00a5 faceboon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998126485,
+      "content": "Hej k\u00c3\u00a6re folk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia H\u00c3\u00b8yer Moesgaard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Anton Andersson",
+      "timestamp_ms": 1669998121068,
+      "content": "Felix Anton har navngivet gruppen SWUlefrokost\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SWUlefrokost\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/swulefrokost_5978634388866170",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
